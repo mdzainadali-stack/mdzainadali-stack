@@ -1,4 +1,4 @@
-# Hi, I'm Zaid Ansari 👋
+# Hi, I'm Zaid Ansari
 
 **Full-stack developer & founder based in Assam, India 🇮🇳**
 
